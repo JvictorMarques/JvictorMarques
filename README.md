@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Hardware, SQL, Python**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **jvictorsilvamarques358@gmail.com**
 
