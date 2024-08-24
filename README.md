@@ -60,7 +60,8 @@
   <!-- Modo escuro -->
   <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" #gh-dark-mode-only />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JvictorMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" #gh-dark-mode-only />
-
+</div>
+<div align="center">
   <!-- Modo claro -->
   <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" height="150" alt="stats graph" #gh-light-mode-only />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JvictorMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph" #gh-light-mode-only />
