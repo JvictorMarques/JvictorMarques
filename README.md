@@ -1,13 +1,3 @@
-<h1 align="left">João Victor</h1>
-<h3 align="left">Software Engineer | Cloud Infrastructure | Kubernetes & AWS</h3>
-
-<p align="left">
-  Software Engineer with ~2 years of experience in cloud infrastructure, containers, and automation.<br/>
-  I work with AWS, Kubernetes, Terraform, and GitHub Actions to build reliable pipelines and scalable infrastructures.<br/>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JvictorMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
@@ -18,7 +8,7 @@
 </div>
 
 <br/>
-
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
