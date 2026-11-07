@@ -1,58 +1,29 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JvictorMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
+# Hi, I'm João Victor
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JvictorMarques&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak stats" />
-</div>
+I'm a Cloud Infrastructure Engineer. Most of my days are spent on AWS and Kubernetes: I write the infra in Terraform, ship it through GitHub Actions and ArgoCD, and watch it in Grafana when something breaks.
 
-<br/>
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />
-</div>
+## Tech stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-</div>
+| Area | Tools |
+|---|---|
+| Cloud | <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" /> <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" /> |
+| IaC and config | <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform" /> <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible" /> |
+| Containers | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" /> <img src="assets/icons/helm.svg" height="40" alt="helm" /> |
+| CI/CD and GitOps | <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions" /> <img src="assets/icons/argocd.svg" height="40" alt="argocd" /> |
+| Observability | <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus" /> <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana" /> <img src="assets/icons/loki.svg" height="40" alt="loki" /> <img src="assets/icons/tempo.svg" height="40" alt="tempo" /> <img src="assets/icons/otel.svg" height="40" alt="otel" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" /> <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi" /> |
+| Database | <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" /> <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" /> |
+| OS and shell | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" /> <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian" /> <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu" /> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" /> |
+
+## Featured projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [`movie-rating`](https://github.com/JvictorMarques/movie-rating) | A movie rating API with the whole road to production: CI on GitHub Actions, Docker images, Helm charts and ArgoCD. | <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi" /> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker" /> <img src="assets/icons/helm.svg" height="30" alt="helm" /> <img src="assets/icons/argocd.svg" height="30" alt="argocd" /> <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform" /> <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions" /> <img src="assets/icons/otel.svg" height="30" alt="otel" /> <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana" /> |
+| [`terraform-eks-cluster`](https://github.com/JvictorMarques/terraform-eks-cluster) | An EKS cluster on its own VPC with an ALB ingress in front. All of it in Terraform. | <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform" /> <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes" /> <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions" /> |
+| [`k8s-fullstack-app`](https://github.com/JvictorMarques/k8s-fullstack-app) | FastAPI backend and React frontend, packaged with Helm and running on a local Kind cluster. | <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi" /> <img src="https://skillicons.dev/icons?i=react" height="30" alt="react" /> <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres" /> <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis" /> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes" /> <img src="assets/icons/helm.svg" height="30" alt="helm" /> |
+| [`kubeadm-with-ansible`](https://github.com/JvictorMarques/kubeadm-with-ansible) | Kubernetes on plain EC2 instances, bootstrapped with kubeadm. Terraform creates the machines and Ansible does the rest. | <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform" /> <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws" /> <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes" /> <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash" /> |
+
+## Contact
+
+📫 [jvictorsilvamarques358@gmail.com](mailto:jvictorsilvamarques358@gmail.com)
