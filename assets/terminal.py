@@ -5,7 +5,7 @@ TYPE, AFTER_CMD, AFTER_OUT, HOLD = 0.055, 0.45, 1.1, 4.0
 G, FG, MUT, RED, YEL, BLUE = "#3fb950", "#e6edf3", "#7d8590", "#f85149", "#d29922", "#58a6ff"
 script = [
   ("cmd", "whoami"),
-  ("out", [[("joao-victor", BLUE), (" · cloud infrastructure engineer", FG)]]),
+  ("out", [[("joao-victor", BLUE), (" · infrastructure engineer", FG)]]),
   ("cmd", "terraform plan"),
   ("out", [[("No changes.", G), (" Your infrastructure matches the configuration.", FG)],
            [("# boring, just how I like it", MUT)]]),
