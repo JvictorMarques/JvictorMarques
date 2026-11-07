@@ -1,8 +1,16 @@
 # Hi, I'm João Victor 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=terraform+plan+before+apply;GitOps+or+it+didn%27t+happen;Boring+infra+is+good+infra" alt="terraform plan before apply. GitOps or it didn't happen. Boring infra is good infra." />
+</p>
+
 I'm Cloud Infrastructure Engineer. I'm the one who gets nervous when someone runs `terraform apply` without reading the plan first.
 
 I like my infrastructure boring. If it isn't in Terraform, it doesn't exist. If it wasn't deployed by a pipeline, I don't trust it. And if it breaks, I'd rather Grafana tell me before a user does. Most of that stuff happens on AWS and Kubernetes, with ArgoCD keeping the clusters honest.
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal running whoami, terraform plan and kubectl get pods -n life" />
+</p>
 
 I learn by building, so you'll find a lot of half-finished labs in my repos. The ones below are the ones I'm proud of. 
 
