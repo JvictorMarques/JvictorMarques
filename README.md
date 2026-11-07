@@ -1,10 +1,12 @@
-# Hi, I'm João Victor
+# Hi, I'm João Victor 👋
 
-Cloud Infrastructure Engineer. I'm the one who gets nervous when someone runs `terraform apply` without reading the plan first.
+I'm Cloud Infrastructure Engineer. I'm the one who gets nervous when someone runs `terraform apply` without reading the plan first.
 
-I like my infrastructure boring. If it isn't in Terraform, it doesn't exist. If it wasn't deployed by a pipeline, I don't trust it. And if it breaks, I'd rather Grafana tell me before a user does. Most of that happens on AWS and Kubernetes, with ArgoCD keeping the clusters honest.
+I like my infrastructure boring. If it isn't in Terraform, it doesn't exist. If it wasn't deployed by a pipeline, I don't trust it. And if it breaks, I'd rather Grafana tell me before a user does. Most of that stuff happens on AWS and Kubernetes, with ArgoCD keeping the clusters honest.
 
-I learn by building, so you'll find a lot of half-finished labs in my repos. The ones below are the ones I'm proud of. I also gave a cloud computing talk to the AWS Student Build Group at UFPB, and I'd happily do it again.
+I learn by building, so you'll find a lot of half-finished labs in my repos. The ones below are the ones I'm proud of. 
+
+I also gave a cloud computing talk to the AWS Student Build Group at UFPB, and I'd happily do it again.
 
 ## Tech stack
 
